@@ -1,9 +1,13 @@
 {
   "name": "@rafael-rufino/gazin-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
+  "types": "./dist/index.d.ts",
+  "description": "Library ui components for Gazin Tech",
+  "repository": "https://github.com/rafael-rufino/gazin-ui",
+  "author": "Rafael Rufino <rafaelrufino.52@gmail.com>",
   "scripts": {
     "dev": "vite",
     "preview": "vite preview",
