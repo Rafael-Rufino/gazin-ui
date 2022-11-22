@@ -1,9 +1,9 @@
 {
   "name": "gazin-ui-web",
   "version": "1.0.2",
-  "main": "./dist/index.cjs.js",
-  "module": "./dist/index.esm.js",
-  "types": "./dist/index.d.ts",
+  "main": "lib/index.esm.js",
+  "module": "lib/index.esm.js",
+  "types": "lib/index.d.ts",
   "description": "Library ui components for Gazin Tech",
   "repository": "https://github.com/rafael-rufino/gazin-ui",
   "author": "Rafael Rufino <rafaelrufino.52@gmail.com>",
